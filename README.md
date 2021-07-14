@@ -1,4 +1,4 @@
-# snapshotanalyzer-3000
+# snapshotalyzer-3000
 
 Python Tutorial - manage AWS EC2 instance snapshots
 
